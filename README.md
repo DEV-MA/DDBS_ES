@@ -1,2 +1,5 @@
-# BS_ES
-Traducción al español del mod Blue Skies para el juego *Doki Doki Literature Club*
+![Blue skies](https://github.com/DEV-MA/BS_ES/blob/main/BLUESKIES.png)
+
+# Acerca del mod
+
+
